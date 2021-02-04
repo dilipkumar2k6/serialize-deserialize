@@ -1,4 +1,7 @@
 # Serialize and Deserialize
+## Array
+https://leetcode.com/problems/encode-and-decode-strings/
+
 ## List
 
 ## Tree
