@@ -29,3 +29,6 @@ https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree/
 
 ## Graph
 https://leetcode.com/problems/clone-graph/
+
+# Compression
+https://leetcode.com/problems/string-compression/
